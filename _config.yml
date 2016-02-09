@@ -1,0 +1,28 @@
+name: Foreign Morning
+favicon: null
+layout_spectrum: 0.6456343466416001
+typography_spectrum: 0.6078794298227876
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#1c171b'
+    - '#c8c6cb'
+    - '#a47352'
+    - '#9b98a1'
+    - '#6a46b3'
+  brandStrength: 0.6875
+  lightness: 0.18636675458401442
+  saturation: 0.375
+  rhythmicContrast: 0.34067493584007025
+purpose: []
