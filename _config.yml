@@ -1,19 +1,4 @@
-name: Foreign Morning
-favicon: null
-layout_spectrum: 0.6456343466416001
 typography_spectrum: 0.6078794298227876
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#1c171b'
@@ -25,4 +10,20 @@ color:
   lightness: 0.18636675458401442
   saturation: 0.375
   rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.6456343466416001
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Foreign Morning
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+description: We're the first co-working community for women entrepreneurs
 purpose: []
